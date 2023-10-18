@@ -1,0 +1,1 @@
+Redis is a popular in-memory key-value data store, which is a type of NoSQL database. Redis is chiefly used as a cache database, but its application does not end there. You can find many articles explaining how Redis can be the all-in-one database for all kinds of applications
